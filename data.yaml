@@ -1,0 +1,9 @@
+
+train: D:/SHIVAA/CODES/MARINE_DEBRIS/CODE/MAIN_CODE/train/images
+val: D:/SHIVAA/CODES/MARINE_DEBRIS/CODE/MAIN_CODE/valid/images
+test: D:/SHIVAA/CODES/MARINE_DEBRIS/CODE/MAIN_CODE/test/images
+
+nc: 15
+names: ['Mask', 'can', 'cellphone', 'electronics', 'gbottle', 'glove', 'metal', 'misc', 'net', 'pbag', 'pbottle', 'plastic', 'rod', 'sunglasses', 'tire']
+
+
